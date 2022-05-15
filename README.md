@@ -66,7 +66,7 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 
 ## :white_check_mark: Minhas estatísticas ##
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusgiacomelli&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlbertoAlfredo&theme=dracula)](#)
 
 ## Obrigado por visitar o meu perfil :wave:
 
