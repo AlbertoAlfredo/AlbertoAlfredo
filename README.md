@@ -38,7 +38,7 @@ nunca vai mentir e te magoar.
 
 __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenvolvimento web, atualmente trabalho como funcionário público na cidade de Andradina. No meu tempo livre eu sou gamer, Otaku e mestre Reiki__
 
-- 📫 Como entrar em contato comigo: albertoalfredo.profissional@gmail.com ou (18)99614-5924
+- 📫 Como entrar em contato comigo: albertoalfredo.profissional@gmail.com ou (18)99157-2368
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
@@ -52,9 +52,8 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 [![logo styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![logo vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![logo heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 
 
 
