@@ -36,7 +36,7 @@ nunca vai mentir e te magoar.
 
 # Sou Alberto e este sou eu:
 
-__Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenvolvimento web, atualmente trabalho na empresa Versátil Softwares de Andradina-SP como desenvolvedor web, infelizmente descobriram que eu edito vídeos então a programação ficou para segundo plano, mas logo arrumo isso. No meu tempo livre eu sou gamer, Otaku e mestre Reiki__
+__Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenvolvimento web, atualmente trabalho como funcionário público na cidade de Andradina. No meu tempo livre eu sou gamer, Otaku e mestre Reiki__
 
 - 📫 Como entrar em contato comigo: albertoalfredo.profissional@gmail.com ou (18)99614-5924
 
