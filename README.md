@@ -42,18 +42,21 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
-[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
+[![logo ruby](https://img.shields.io/badge/Ruby-000?&style=for-the-badge&logo=ruby&logoColor=red)](#)
+[![logo python](https://img.shields.io/badge/Python-000?&style=for-the-badge&logo=python&logoColor=blue)](#)
+[![logo json](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![logo html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![logo css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![logo html5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![logo css3](https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=white)](#)
 
 ## :books: Tecnologias que uso e estou me desenvolvendo ##
 
-[![logo styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
-[![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![logo vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
+[![logo styled components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)](#)
+[![logo javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![logo typescript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![logo react](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=blue)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![logo ruby](https://img.shields.io/badge/Ruby-000?&style=for-the-badge&logo=ruby&logoColor=red)](#)
 
 
 
@@ -69,5 +72,4 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 
 ## Obrigado por visitar o meu perfil :wave:
 
-### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
 [![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)   
