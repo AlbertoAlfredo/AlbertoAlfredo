@@ -50,12 +50,10 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 
 ## :books: Tecnologias que uso e estou me desenvolvendo ##
 
-[![logo styled components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)](#)
+[![logo python](https://img.shields.io/badge/Python-000?&style=for-the-badge&logo=python&logoColor=blue)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![logo typescript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![logo react](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=blue)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![logo ruby](https://img.shields.io/badge/Ruby-000?&style=for-the-badge&logo=ruby&logoColor=red)](#)
+
 
 
 
