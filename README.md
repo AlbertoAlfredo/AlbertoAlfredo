@@ -42,7 +42,6 @@ __Eu sou um desenvolvedor brasileiro freelancer nas horas vagas voltado a desenv
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
-[![logo ruby](https://img.shields.io/badge/Ruby-000?&style=for-the-badge&logo=ruby&logoColor=red)](#)
 [![logo python](https://img.shields.io/badge/Python-000?&style=for-the-badge&logo=python&logoColor=blue)](#)
 [![logo json](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
