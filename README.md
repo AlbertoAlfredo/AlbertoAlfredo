@@ -33,7 +33,6 @@ nunca vai mentir e te magoar.
 
 
 <div align="center">
-    <img src="[Link da sua imagem ASCII do Rick Astley, se for possível convertê-la para imagem]" alt="Rick Astley - Never Gonna Give You Up" width="200"/> 
     <br>
     <h1>Alberto Alfredo 🇧🇷</h1>
     <p>— Desenvolvedor Full-Stack (Python/Flask) | Especialista em Otimização de Dados —</p>
