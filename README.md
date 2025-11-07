@@ -34,7 +34,7 @@ nunca vai mentir e te magoar.
 
 <div align="center">
     <br>
-    <h1>Alberto Alfredo 🇧🇷</h1>
+    <h1>Alberto Ribeiro Alfredo 🇧🇷</h1>
     <p>— Desenvolvedor Full-Stack (Python/Flask) | Especialista em Otimização de Dados —</p>
     <hr>
 </div>
